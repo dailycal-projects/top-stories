@@ -18,8 +18,8 @@ window.$('.icon-twitter').click((e) => {
 $(document).ready(function() {
     console.log(list_data)
     
-    for (var i = 0; i < data.length; i++) {
-        var article = data[i];
+    for (var i = 0; i < list_data.length; i++) {
+        var article = list_data[i];
         var new_card = $('<a></a>');
         new_card.attr('href', article["Link"]);
         new_card.addClass('article-card');
