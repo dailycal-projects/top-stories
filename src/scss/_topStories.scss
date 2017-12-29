@@ -1,0 +1,52 @@
+#top-stories-buttons {
+    text-align: center;
+}
+
+#top-stories {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.article-card {
+    width: 300px;
+    color: black;
+    margin: 10px;
+}
+
+.article-rank {
+    font-family: "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: white;
+    position: absolute;
+    margin: 5px;
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.article-img-container {
+    background-color: lightgrey;
+    height: 193.5px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.article-img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.article-title {
+    font-size: 20px;
+}
+
+.selected {
+    color: $white;
+    background-color: $button;
+}

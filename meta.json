@@ -1,0 +1,25 @@
+{
+  "id": "66218720009",
+  "publishPath": "2017/top-stories/",
+  "url": "http://projects.dailycal.org/2017/top-stories/",
+  "timestamp": "2017-04-13T08:13-0400",
+  "dateline": "04/13/17 08:13 PM EDT",
+  "share": {
+    "fbook": {
+      "card_title": "top-stories",
+      "card_description": "Here are the Daily Cal's most read stories of 2017"
+    },
+    "twitter": {
+      "card_title": "top-stories",
+      "share_tweet": "Here are the Daily Cal's most read stories of 2017"
+    },
+    "image": {
+      "url": "http://projects.dailycal.org/2017/top-stories/images/share.jpg",
+      "alt": "<Text>",
+      "type": "image/jpeg",
+      "width": "600",
+      "height": "300"
+    },
+    "keywords": "Daily Cal, news"
+  }
+}
