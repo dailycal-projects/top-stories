@@ -3,16 +3,22 @@
     margin-bottom: 10px;
 }
 
-#top-stories {
+.container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
+#top-stories {
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+}
+
 .article-card {
-    width: 300px;
+    width: 33.333%;
     color: black;
-    margin: 10px;
+    padding: 10px;
 }
 
 .article-rank {
