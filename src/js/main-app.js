@@ -20,7 +20,7 @@ $(document).ready(function() {
     
     for (var i = 0; i < list_data.length; i++) {
         var article = list_data[i];
-        var new_card = $('<a></a>');
+        var new_card = $('<a target="_blank"></a>');
         new_card.attr('href', article["Link"]);
         new_card.addClass('article-card');
 
