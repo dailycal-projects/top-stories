@@ -12,11 +12,17 @@
 #top-stories {
     display: flex;
     flex-wrap: wrap;
-    width: 900px;
+    @media screen and (max-width: 630px) {
+        width: 300px;
+    }
+    width: 600px;
+    @media screen and (min-width: 992px) {
+        width: 900px;
+    }
 }
 
 .article-card {
-    width: 33.333%;
+    width: 300px;
     color: black;
     padding: 10px;
 }
