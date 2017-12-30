@@ -2,8 +2,8 @@
   "id": "66218720009",
   "publishPath": "2017/top-stories/",
   "url": "http://projects.dailycal.org/2017/top-stories/",
-  "timestamp": "2017-04-13T08:13-0400",
-  "dateline": "04/13/17 08:13 PM EDT",
+  "timestamp": "2017-12-30T14:00-1400",
+  "dateline": "12/30/17 02:00 PM PST",
   "share": {
     "fbook": {
       "card_title": "The Daily Californian’s most-read stories of 2017",
@@ -15,10 +15,10 @@
     },
     "image": {
       "url": "http://projects.dailycal.org/2017/top-stories/images/share.jpg",
-      "alt": "<Text>",
+      "alt": "The Daily Californian’s most-read stories of 2017",
       "type": "image/jpeg",
-      "width": "600",
-      "height": "300"
+      "width": "900",
+      "height": "580"
     },
     "keywords": "Daily Cal, news"
   }
